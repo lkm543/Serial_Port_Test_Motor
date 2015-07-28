@@ -1,0 +1,7 @@
+C:\Users\Mick\Desktop\Serial_Port_Test_Motor\Serial_Port_Test\Serial_Port_Test\bin\Debug\Serial_Port_Test.exe
+C:\Users\Mick\Desktop\Serial_Port_Test_Motor\Serial_Port_Test\Serial_Port_Test\bin\Debug\Serial_Port_Test.pdb
+C:\Users\Mick\Desktop\Serial_Port_Test_Motor\Serial_Port_Test\Serial_Port_Test\obj\x86\Debug\Serial_Port_Test.Form1.resources
+C:\Users\Mick\Desktop\Serial_Port_Test_Motor\Serial_Port_Test\Serial_Port_Test\obj\x86\Debug\Serial_Port_Test.Properties.Resources.resources
+C:\Users\Mick\Desktop\Serial_Port_Test_Motor\Serial_Port_Test\Serial_Port_Test\obj\x86\Debug\Serial_Port_Test.csproj.GenerateResource.Cache
+C:\Users\Mick\Desktop\Serial_Port_Test_Motor\Serial_Port_Test\Serial_Port_Test\obj\x86\Debug\Serial_Port_Test.exe
+C:\Users\Mick\Desktop\Serial_Port_Test_Motor\Serial_Port_Test\Serial_Port_Test\obj\x86\Debug\Serial_Port_Test.pdb
